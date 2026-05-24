@@ -1,5 +1,3 @@
-# Triupsium-A-travel-application-
-
 <h1>🌍 Tripseum – Your Travel Guide</h1>
 
 <p>
